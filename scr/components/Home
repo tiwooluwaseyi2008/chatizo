@@ -1,0 +1,6 @@
+// src/components/Home.jsx  
+import React from 'react';  
+function Home() {  
+  return <div className="container mt-3"><h3>Welcome to Chatizo!</h3><p>Discover trending chats and fun games.</p></div>;  
+}  
+export default Home;  
